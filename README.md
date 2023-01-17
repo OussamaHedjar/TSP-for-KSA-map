@@ -13,6 +13,7 @@ So I used 3 alogrithms to solve this problem, which are:
 The idea of the solution was to implement a map using an arraylist of edges for each city, and the arraylist has:
 1. Neighbor of the city.
 2. distance between the two cities.
+
 To make that map, I used two CSV files, one contains the cities coordinates and the other the distance between each city and its neighbor.
 
 NOTE 1: THE SECOND FILE IS NOT COMPLETE, IT HAS A NUMBER OF MISSING CONEECTIONS.
