@@ -15,7 +15,7 @@ The idea of the solution was to implement a map using an arraylist of edges for 
 2. distance between the two cities.
 To make that map, I used two CSV files, one contains the cities coordinates and the other the distance between each city and its neighbor.
 
-NOTE 1: THE SECOND FILE IS NOT COMPLETE, IT HAS A NUMBER OF MISSING CONEECTION.
+NOTE 1: THE SECOND FILE IS NOT COMPLETE, IT HAS A NUMBER OF MISSING CONEECTIONS.
 
 After finsihing the map, all what was left is to implement the algorithms.
 
