@@ -1,0 +1,321 @@
+Al Lith,224.06,Mecca
+Al Lith,208.88,Jeddah
+Al Lith,160.49,Al Qunfudhah
+Al Lith,217.53,Bahrah
+Al Lith,143.18,Qilwah
+Al Lith,133.96,Hajrah
+Al Lith,209,Farat Ghamid Az zinad
+Al Bahah,31,Baljurashi
+Al Bahah,50,Al Makhwah
+Al Bahah,43,Al Aqiq
+Al Bahah,50.4,Almandaq
+Al Bahah,28,Bani hasan
+Al Bahah,47,Qilwah
+Al Qunfudhah,146.65,Al Ardiyat
+Al Qunfudhah,183.57,Muhayil
+Al Qunfudhah,122.2,Al Majaridah
+Al Qunfudhah,173,Al Birk
+Al Qunfudhah,135,Bariq
+Al Qunfudhah,106.67,Al Makhwah
+Al Qunfudhah,142.48,Farat Ghamid Az zinad
+Al Qunfudhah,157.01,Hajrah
+Al Qunfudhah,138,Qilwah
+Muhayil,51,Bariq
+Muhayil,67,Tanomah
+Muhayil,74,Ragal Almaa
+Muhayil,82,Abha
+Muhayil,95,Al Birk
+Abha,120,Tanomah
+Abha,90,Ad Darb
+Abha,30,Khamis Mushait
+Abha,40,Ahad Rafidah
+Abha,82,Muhayil
+Abha,74,Ragal Almaa
+Khamis Mushait,15,Ahad Rafidah
+Khamis Mushait,66,Tereeb
+Khamis Mushait,202,Tathleeth
+Baljurashi,41,Al Makhwah
+Baljurashi,81.39,Al Ardiyat
+Baljurashi,132,Balqarn
+Baljurashi,64,Al Aqiq
+Bisha,167,Ranyah
+Bisha,150,Tathleeth
+Bisha,120,Balqarn
+Bisha,220,Khamis Mushait
+Bisha,255,Tereeb
+Tathleeth,189.3,Wadi ad-Dawasir
+Tathleeth,132,Tereeb
+Tathleeth,202,Khamis Mushait
+Tathleeth,327,Thar
+Tathleeth,261,Badr Al Janoub
+Yadamah,223,As Sulayyil
+Yadamah,228,Wadi ad-Dawasir
+Yadamah,327,Tathleeth
+Yadamah,163,Tereeb
+Yadamah,203,Sarat Abidah
+Yadamah,74,Thar
+Yadamah,147,Khbash
+Najran,70,Hubuna
+Najran,101,Dhahran Al Janoub
+Najran,116,Badr Al Janoub
+Najran,67,Khbash
+Najran,452,As Sulayyil
+Jazan,36,Sabya
+Jazan,34,Abu Arish
+Jazan,53,Ahad Al Masarihah
+Jazan,60,Farasan
+Abu Arish,36,Sabya
+Abu Arish,29,Damad
+Abu Arish,28,Al Aridhah
+Abu Arish,37,Ahad Al Masarihah
+Sabya,36,Jazan
+Sabya,36,Abu Arish
+Sabya,34,Baish
+Sabya,24,Damad
+Sabya,38,Al Edabi
+Sabya,56,Harub
+Wadi ad-Dawasir,517.33,Ar Rayn
+Wadi ad-Dawasir,238.85,Ranyah
+Wadi ad-Dawasir,314.62,Bisha
+Wadi ad-Dawasir,189.33,Tathleeth
+Wadi ad-Dawasir,534,Sharorah
+Wadi ad-Dawasir,228,Yadamah
+Wadi ad-Dawasir,440,Khbash
+Sharorah,288,Khbash
+Sharorah,427,Yadamah
+Sharorah,528,As Sulayyil
+Sharorah,534,Wadi ad-Dawasir
+As Sulayyil,86.72,Wadi ad-Dawasir
+As Sulayyil,243.66,Aflaj
+As Sulayyil,529,Sharorah
+As Sulayyil,388,Hubuna
+As Sulayyil,223,Yadamah
+As Sulayyil,331,Thar
+As Sulayyil,435,Khbash
+Taif,94.43,Mecca
+Taif,162.24,Turbah
+Taif,197.6,Al Muwayah
+Taif,102.33,Maysaan
+Taif,348.11,Al Mahd
+Taif,208,Almandaq
+Mecca,29.28,Aljumum
+Mecca,46.53,Bahrah
+Jeddah,162.08,Rabigh
+Jeddah,73.41,Aljumum
+Jeddah,122.17,Khulais
+Jeddah,157.26,Al Kamil
+Jeddah,34.51,Bahrah
+Rabigh,84.96,Khulais
+Rabigh,196.64,Yanbu
+Rabigh,127.24,Badr
+Rabigh,168.37,Wadi Al Fora’a
+Aljumum,99.29,Khulais
+Aljumum,133.91,Al Kamil
+Aljumum,40.27,Bahrah
+Aljumum,369.65,Al Mahd
+Khulais,68.13,Al Kamil
+Khulais,285.45,Al Mahd
+Khulais,254.46,Wadi Al Fora’a
+Al Kamil,256.57,Al Mahd
+Al Kamil,225.58,Wadi Al Fora’a
+Al Khurma,537.85,Al Quwaiiyah
+Al Khurma,323.33,Afif
+Al Khurma,313.1,Ranyah
+Al Khurma,101.78,Turbah
+Al Khurma,117.77,Al Muwayah
+Al Khurma,267.9,Al Mahd
+Ranyah,453.5,Ar Rayn
+Ranyah,212.82,Turbah
+Ranyah,238.07,Al Aqiq
+Turbah,141.31,Maysaan
+Turbah,243.58,Bisha
+Turbah,143.66,Al Aqiq
+Turbah,174,Almandaq
+Medina,346.5,AlUla
+Medina,192.98,Al Mahd
+Medina,159.68,Badr
+Medina,177.48,Khaybar
+Medina,119.17,Al Henakiyah
+Medina,201.47,Wadi Al Fora’a
+Medina,215.02,Al Hait
+Yanbu,82.38,Badr
+Yanbu,157.26,Al Ais
+Yanbu,169.14,Umluj
+Al Henakiyah,181.39,Al Mahd
+Al Henakiyah,150.91,Al Neqrah
+Al Henakiyah,136.26,Al Hait
+Khaybar,275.27,AlUla
+Khaybar,301.11,Al Ais
+Khaybar,263,Tayma
+Khaybar,160.11,Al Hait
+Khaybar,314,Ash Shamli
+Al Ais,218.11,Medina
+Al Ais,211,AlUla
+Al Ais,101,Umluj
+AlUla,338,Tabuk
+AlUla,245,Al Wajh
+AlUla,329,Duba
+AlUla,188,Tayma
+AlUla,274,Ash Shamli
+AlUla,387,Al Hait
+Tabuk,324,Al Wajh
+Tabuk,196,Duba
+Tabuk,235.5,Haql
+Tabuk,241,Al Bad’
+Tabuk,261,Tayma
+Tabuk,424,Dumah Al Jandal
+Tabuk,469,Tubarjal
+Al Wajh,150,Duba
+Al Wajh,166,Umluj
+Tayma,166,Umluj
+Tayma,269,Ash Shamli
+Tayma,604,Dumah Al Jandal
+Tayma,466,Tubarjal
+Hail,69,Mawqaq
+Hail,173,Ash Shamli
+Hail,99,Baqaa
+Hail,92,Ash Shinan
+Hail,137,Sumaira’a
+Hail,105,Al Ghazalah
+Baqaa,318,Rafha
+Baqaa,279,Qbah
+Baqaa,387,Al Uwayqilah
+Baqaa,168,Shari
+Baqaa,101,Ash Shinan
+Baqaa,416,Dumah Al Jandal
+Al Ghazalah,81,Mawqaq
+Al Ghazalah,173,Ash Shinan
+Al Ghazalah,109,Sumaira’a
+Al Ghazalah,74,Al Sulaimi
+Al Ghazalah,167,Al Neqrah
+Al Ghazalah,187,Ash Shamli
+Al Ghazalah,147,Al Hait
+Arar,243.33,Turaif
+Arar,163.44,Sakaka
+Arar,137,Al Uwayqilah
+Arar,204.36,Dumah Al Jandal
+Rafha,153,Al Uwayqilah
+Rafha,277,Hafar Al Batin
+Rafha,414,Sakaka
+Rafha,359,Qbah
+Rafha,396,Ash Shinan
+Sakaka,48,Dumah Al Jandal
+Sakaka,440,Baqaa
+Sakaka,352,Al Uwayqilah
+Al Qurayyat,132,Tubarjal
+Al Qurayyat,160,Turaif
+Hafar Al Batin,273,Nairyah
+Hafar Al Batin,241,Qbah
+Hafar Al Batin,277,Rafha
+Buraydah,33.11,Al Qaraa
+Buraydah,127,Shari
+Buraydah,33.78,Unayzah
+Buraydah,65.03,Al Asyah
+Buraydah,97.47,Al Mukharim
+Buraydah,33.76,Ash Shimasiyah
+Buraydah,269,Hail
+Al Bukayriyah,46.3,Unayzah
+Al Bukayriyah,39.11,Al Qaraa
+Al Bukayriyah,41.36,Buraydah
+Al Bukayriyah,80,Ash Shimasiyah
+Al Bukayriyah,32,Al Badayea
+Al Bukayriyah,16.44,Riyadh Al Khabra
+Al Bukayriyah,156,Sumaira’a
+Unayzah,40,Buraydah
+Unayzah,53,Ash Shimasiyah
+Unayzah,109.23,Az Zulfi
+Unayzah,113.43,Aqla
+Unayzah,112,Al Ghat
+Unayzah,105.45,Umm Hazim
+Unayzah,37.75,Al Mithnab
+Unayzah,34,Al Badayea
+Unayzah,46.3,Al Bukayriyah
+Ar Rass,26,Riyadh Al Khabra
+Ar Rass,30,Al Badayea
+Ar Rass,72,Al Petra
+Ar Rass,110.29,Al Malqa
+Ar Rass,165,Dariyah
+Al Majma’ah,108.74,Thadiq
+Al Majma’ah,50.22,Al Ghat
+Al Majma’ah,272.61,Hafar Al Batin
+Az Zulfi,80.72,Al Majma’ah
+Az Zulfi,46.39,Al Ghat
+Az Zulfi,103.52,Unayzah
+Az Zulfi,73.8,Ash Shimasiyah
+Az Zulfi,355.52,Aqla
+Az Zulfi,297.94,Hafar Al Batin
+Shaqra,127.48,Al Duwadimi
+Shaqra,86.52,Al Majma’ah
+Shaqra,84.88,Thadiq
+Shaqra,105.42,Huraymila
+Shaqra,36.86,Marat
+Shaqra,241.7,Al Malqa
+Shaqra,103.55,Umm Hazim
+Al Duwadimi,170.74,Afif
+Al Duwadimi,160.58,Marat
+Al Duwadimi,200.21,Ar Rayn
+Al Duwadimi,244.11,Al Malqa
+Al Duwadimi,173.8,Ad Diriyah
+Al Quwaiiyah,133.61,Al Duwadimi
+Al Quwaiiyah,181.78,Shaqra
+Al Quwaiiyah,119.55,Dhurma
+Al Quwaiiyah,118.86,Al Muzahmiya
+Al Quwaiiyah,152.37,Marat
+Al Quwaiiyah,427.51,Al Muwayah
+Howtat Bani Tamim,101.8,Al Kharj
+Howtat Bani Tamim,143.95,Aflaj
+Howtat Bani Tamim,62.78,Al Hariq
+Howtat Bani Tamim,91.08,Ad Dilam
+Al Kharj,118.49,Ad Dilam
+Al Kharj,373.65,Al Ahsa
+Ar Rayn,77.37,Al Quwaiiyah 
+Ar Rayn,421.16,Wadi ad-Dawasir
+Ar Rayn,140.94,Dhurma
+Ar Rayn,141.03,Al Muzahmiya
+Ar Rayn,127.08,Al Hariq
+Ar Rayn,444.5,Ranyah
+Riyadh,38.36,Ad Diriyah
+Riyadh,87.03,Al Kharj
+Riyadh,217.64,Al Majma’ah
+Riyadh,142.98,Howtat Bani Tamim
+Riyadh,110.27,Al Muzahmiya
+Riyadh,109.59,Huraymila
+Riyadh,285.36,Urayarah
+Riyadh,98.13,Ad Dilam
+Riyadh,414.71,Dammam
+Rumah,121.53,Riyadh
+Rumah,234.46,Al Majma’ah
+Rumah,191.24,Thadiq
+Rumah,199.89,Huraymila
+Rumah,394.51,Hafar Al Batin
+Rumah,485.02,Al Jubail
+Rumah,397.02,Khafji
+Rumah,297.32,Nairyah 
+Dhurma,72.94,Riyadh
+Dhurma,70.38,Ad Diriyah
+Dhurma,23.44,Al Muzahmiya
+Dhurma,101.05,Thadiq
+Dhurma,141.61,Huraymila
+Dhurma,90.4,Marat
+Dammam,15.99,Al Qatif
+Dammam,25.71,Al Khobar
+Dammam,69.19,Buqayq
+Dammam,171.29,Al Ahsa
+Dammam,146.2,Urayarah
+Al Ahsa,100.22,Buqayq
+Al Ahsa,172.89,Al Khobar
+Al Ahsa,371.08,Riyadh 
+Al Ahsa,373.65,Al Kharj
+Al Jubail,71.36,Al Qatif
+Al Jubail,235.51,Khafji
+Al Jubail,88.15,Ras Tanura
+Al Jubail,152.27,Nairyah 
+Al Qatif,61.5,Ras Tanura
+Al Qatif,71.36,Al Jubail
+Khafji,288,Hafar Al Batin
+Khafji,235.51,Al Jubail
+Khafji,131.18,Nairyah 
+Khafji,436.56,Huraymila
+Khafji,397.02,Rumah
+Buqayq,88.12,Al Khobar
+Buqayq,275.61,Nairyah 
